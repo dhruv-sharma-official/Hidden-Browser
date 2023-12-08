@@ -10,7 +10,9 @@ Shrey Verma
 
 Bhavyansh Pareek
 
-Download the and setup the browser using the virtual machine in local environment
+Download the file, decrypt it using winrar and setup the browser using the virtual machine in local environment
+
+Setup instruction are in the Instruction.txt
 
 
 
